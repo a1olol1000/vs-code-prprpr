@@ -21,5 +21,6 @@ time = Console.ReadLine();
 
 Console.WriteLine($"{name} blev dödad av 2 {animal} när {pronoun} sprang från {scared} kl {time}!");
 
+Console.WriteLine("je");
 
 Console.ReadLine();
